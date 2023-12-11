@@ -37,7 +37,7 @@
 
 - ⚡ Fun Fact: You only achieve your dreams if you dare to dream them first.
 
-- 💬 Have a look at my [Portfolio]((https://abhinaba900.github.io/Portpolio1/)
+- 💬 Have a look at my [Portfolio](https://abhinaba900.github.io/Portpolio1/)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
