@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/abhinaba-jana-45461327a/){target=_blank}**
+- 👯 I’m looking to collaborate on **[LinkedIn]<a href="https://www.linkedin.com/in/abhinaba-jana-45461327a/" target="_blank">**
 
 - 📫 Reach me on **abhinabajana900@gmail.com**
 
