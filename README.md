@@ -5,12 +5,12 @@
 
 <hr>
 
--🎨 As a dedicated frontend developer, I'm driven by the art of crafting captivating user experiences through innovative web interfaces.
--🌟 Proficient in HTML, CSS, and JavaScript, I specialize in creating responsive and visually appealing designs.
--⚛️ With expertise in frameworks like React and Vue.js, I bring concepts to life with clean and efficient code.
--🖥️ My portfolio showcases a range of projects, each highlighting my ability to blend creativity with functionality.
--👩‍💻 I prioritize user-centric design, aiming for seamless interactions and engaging interfaces.
--🚀 Eager to collaborate on projects that challenge conventions and push the boundaries of frontend development, I'm committed to delivering impactful digital experiences.
+- 🎨 As a dedicated frontend developer, I'm driven by the art of crafting captivating user experiences through innovative web interfaces.
+- 🌟 Proficient in HTML, CSS, and JavaScript, I specialize in creating responsive and visually appealing designs.
+- ⚛️ With expertise in frameworks like React and Vue.js, I bring concepts to life with clean and efficient code.
+- 🖥️ My portfolio showcases a range of projects, each highlighting my ability to blend creativity with functionality.
+- 👩‍💻 I prioritize user-centric design, aiming for seamless interactions and engaging interfaces.
+- 🚀 Eager to collaborate on projects that challenge conventions and push the boundaries of frontend development, I'm committed to delivering impactful digital experiences.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
