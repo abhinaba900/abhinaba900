@@ -50,32 +50,71 @@
           <span>HTML5</span><br /><br />
           <img
             height="64px"
-             src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo"
+            src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo"
           />
         </a>
       </td>
-        <td width="25%" align="center">
+      <td width="25%" align="center">
         <a href="http://www.w3.org/TR/CSS/">
           <span>CSS</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
         </a>
       </td>
-       <td width="25%" align="center">
-        <a href="http://expressjs.com/">
-          <span>Express</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/express.svg"
-          />
+      <td width="25%" align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <span>JavaScript</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
         </a>
       </td>
       <td width="25%" align="center">
-        <a href="https://chakra-ui.com/">
-          <span>Chakra UI</span><br /><br />
-          <img height="64px" src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="Chakra UI Logo" />
+        <a href="https://react.dev/">
+          <span>React</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
         </a>
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a href="https://nodejs.org/">
+          <span>Node.js</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Express</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/express.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://www.mongodb.org/">
+          <span>MongoDB</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://www.python.org/">
+          <span>Python</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/python.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a href="https://www.djangoproject.com/">
+          <span>Django</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/django.svg" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<h2 align="left">🛠️ Tech Tools</h2>
+<table align="center">
+  <tbody>
     <tr valign="top">
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
@@ -85,7 +124,7 @@
             src="https://cdn.svgporn.com/logos/git-icon.svg"
           />
         </a>
-    </td>
+      </td>
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://www.vercel.com/">
           <span>Vercel</span><br /><br />
@@ -93,20 +132,12 @@
         </a>
       </td>
       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <span>JavaScript</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
+          <span>Netlify</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
         </a>
       </td>
       <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://react.dev/">
-          <span>React</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
-        </a>
-      </td>
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
           <span>Postman</span><br /><br />
           <img
@@ -114,32 +145,14 @@
             src="https://cdn.svgporn.com/logos/postman-icon.svg"
           />
         </a>
-    </td>
-    <td width="25%" align="center">
-      <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
-        <span>MongoDB</span><br /><br />
-        <img
-          height="64px"
-          src="https://cdn.svgporn.com/logos/mongodb.svg"
-        />
-      </a>
-    </td>
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
-          <span>Netlify</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
-          <span>Node.js</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
-        </a>
       </td>
     </tr>
-
   </tbody>
 </table>
+
+
+
+
 
 <br/>
 
