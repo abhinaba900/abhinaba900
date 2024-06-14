@@ -25,11 +25,11 @@
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
-- Checkout my **<a href="https://drive.google.com/file/d/1uBgffV5MAq5LW80ColbWqOAARWg0ZdL0/view?usp=sharing" target="_blank" rel="noopener">Resume</a>**
+- Checkout my **<a href="https://drive.google.com/file/d/1uBgffV5MAq5LW80ColbWqOAARWg0ZdL0/view?usp=sharing" target="_blank" >Resume</a>**
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/abhinaba-jana-45461327a/" target="_blank" rel="noopener">LinkedIn</a>**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/abhinaba-jana-45461327a/" target="_blank" >LinkedIn</a>**
 
 
 - 📫 Reach me on **abhinabajana900@gmail.com**
