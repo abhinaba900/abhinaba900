@@ -39,7 +39,7 @@
 - ⚡ Fun Fact: You only achieve your dreams if you dare to dream them first.
 
 - 💬 Have a look at my [Portfolio](https://abhinaba900.github.io/Portpolio1/)
-
+<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
 <h2 align="left">⚡Tech Stack</h2>
 <table align="center">
